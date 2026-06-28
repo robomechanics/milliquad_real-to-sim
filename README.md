@@ -1,8 +1,8 @@
-# LEGO Milliquad MuJoCo
+# Tiny Legs or Tiny Wheels? Comparing locomotion morphologies for 100 mg quadrupeds using real-to-sim system identification
 
 MuJoCo simulation + CMA-ES system identification for magnetically-actuated ~100 mg Milliquad robots (L1 / L2 / L4 / wheel morphologies).
 
-Paper: [`Milliquad_Paper.pdf`](Milliquad_Paper_Final.pdf)
+IROS 2026Paper: [`Tiny Legs or Tiny Wheels? Comparing locomotion morphologies for 100 mg quadrupeds using real-to-sim system identification`](Milliquad_Paper_Final.pdf)
 
 ## Requirements
 
