@@ -2,8 +2,7 @@
 
 MuJoCo simulation + CMA-ES system identification for magnetically-actuated ~100 mg Milliquad robots (L1 / L2 / L4 / wheel morphologies).
 
-Paper: [`Milliquad_Paper.pdf`](Milliquad_Paper.pdf)  
-Detailed file map: [`PAPER_MANIFEST.md`](PAPER_MANIFEST.md)
+Paper: [`Milliquad_Paper.pdf`](Milliquad_Paper_Final.pdf)
 
 ## Requirements
 
@@ -27,7 +26,6 @@ milliquad_opt/          # simulation, optimization, analysis
 └── results/            # timestamped optimization runs (3 canonical dirs included)
 
 experimental_data/      # raw trial CSVs + exp plotting extractors (needed for figures)
-_quarantine/            # dev junk moved aside (not needed for paper repro)
 ```
 
 ## Canonical results (paper figures)
